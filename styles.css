@@ -1,8 +1,8 @@
 body{
-color: navy;
-background: aquamarine;
+color: black;
+background: azure;
 }
 header{
-    border-bottom: solid 2px rgb(rgb(0, 115, 255))
+    border-bottom: solid 2px rgb(rgb(1, 11, 23))
     padding: 20px
 }
